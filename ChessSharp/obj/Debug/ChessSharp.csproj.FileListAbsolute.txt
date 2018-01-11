@@ -1,0 +1,275 @@
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\ChessSharp.exe.config
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\ChessSharp.exe
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\ChessSharp.pdb
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\MainWindow.baml
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\MainWindow.g.cs
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\App.g.cs
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.cache
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.g.resources
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.Properties.Resources.resources
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.csproj.GenerateResource.Cache
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.exe
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.pdb
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.lref
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\NovaIgraDialog.baml
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\obj\Debug\NovaIgraDialog.g.cs
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp\ChessSharp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\ChessSharp.exe.config
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\System.Windows.Interactivity.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\Xceed.Wpf.DataGrid.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.xml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\NovaIgraDialog.baml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\MainWindow.g.cs
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\NovaIgraDialog.g.cs
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\App.g.cs
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.cache
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.lref
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\MainWindow.baml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp.g.resources
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp.Properties.Resources.resources
+d:\Users\milos\Documents\visual studio 2013\ChessSharp2.0\ChessSharp\obj\Debug\ChessSharp.csproj.GenerateResource.Cache
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\ChessSharp.exe.config
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.exe
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\ChessSharp.exe
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\System.Windows.Interactivity.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\Xceed.Wpf.DataGrid.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.pdb
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.xml
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\NovaIgraDialog.baml
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\MainWindow.g.cs
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\NovaIgraDialog.g.cs
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\App.g.cs
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.cache
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.lref
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\MainWindow.baml
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.g.resources
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.Properties.Resources.resources
+d:\Users\milos\Documents\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.csproj.GenerateResource.Cache
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.1\ChessSharp\bin\Debug\ChessSharp.exe.config
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp1.1\ChessSharp\bin\Debug\ChessSharp.exe.config
+d:\Users\milos\Documents\visual studio 2013\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\ChessSharp1.1\ChessSharp\obj\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\ChessSharp.exe.config
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\System.Windows.Interactivity.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.DataGrid.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.xml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\NovaIgraDialog.baml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\MainWindow.g.cs
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\NovaIgraDialog.g.cs
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\App.g.cs
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.cache
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.lref
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\MainWindow.baml
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp.g.resources
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp.Properties.Resources.resources
+d:\Users\milos\Documents\visual studio 2013\ChessSharp\ChessSharp\obj\Debug\ChessSharp.csproj.GenerateResource.Cache
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\ChessSharp.exe.config
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\ChessSharp.exe
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\ChessSharp.pdb
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\System.Windows.Interactivity.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.DataGrid.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.pdb
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.xml
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\MainWindow.g.cs
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\NovaIgraDialog.g.cs
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\OpcijeDijalog.g.cs
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\App.g.cs
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp_Content.g.cs
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.cache
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.lref
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\MainWindow.baml
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\NovaIgraDialog.baml
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\OpcijeDijalog.baml
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.g.resources
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.Properties.Resources.resources
+d:\Users\milos\Documents\visual studio 2013\Projects\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.csproj.GenerateResource.Cache
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\MainWindow.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\NovaIgraDialog.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\OpcijeDijalog.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\App.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp_Content.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.cache
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp_MarkupCompile.lref
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\ChessSharp.exe.config
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\ChessSharp.exe
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\ChessSharp.pdb
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\MainWindow.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\NovaIgraDialog.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\OpcijeDijalog.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.g.resources
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.Properties.Resources.resources
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.csproj.GenerateResource.Cache
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.exe
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.pdb
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessLogicF\frmPgnFilter.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessLogicF\frmPgnFilter.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessLogicF\frmLoadPGNGames.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessLogicF\CircularProgressBar.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessLogicF\CircularProgressBar.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessLogicF\frmLoadPGNGames.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\PromocijaPesakaDijalog.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\PromocijaPesakaDijalog.g.cs
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\AboutDialog.baml
+D:\Users\milos\Documents\visual studio 2013\ChessSharp1.0\ChessSharp\obj\Debug\AboutDialog.g.cs

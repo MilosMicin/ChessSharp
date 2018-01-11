@@ -1,0 +1,327 @@
+﻿<Window x:Class="ChessSharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:avalon="http://schemas.xceed.com/wpf/xaml/avalondock"
+        xmlns:ChessSharp ="clr-namespace:ChessSharp.Model"
+        xmlns:ChessBoard ="clr-namespace:ChessSharp.ChessLogicF"
+        Title="MainWindow" Height="600" Width="1000" ResizeMode="NoResize">
+    <Window.Resources>
+        <ChessSharp:Converter x:Key="StringToImage" />
+        <DrawingBrush x:Key="Tabla" Stretch="None" TileMode="Tile" Viewport="0,0,2,2" ViewportUnits="Absolute" >
+            <DrawingBrush.Drawing>
+                <DrawingGroup>
+                    <GeometryDrawing Brush="{Binding Igra.PoljeSvetlo.Boja}">
+                        <GeometryDrawing.Geometry>
+                            <RectangleGeometry Rect="0,0,2,2"/>
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+                    <GeometryDrawing Brush="{Binding Igra.PoljeTamno.Boja}">
+                        <GeometryDrawing.Geometry>
+                            <GeometryGroup>
+                                <RectangleGeometry Rect="0,0,1,1"/>
+                                <RectangleGeometry Rect="1,1,1,1"/>
+                            </GeometryGroup>
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+                </DrawingGroup>
+            </DrawingBrush.Drawing>
+        </DrawingBrush>
+        <Style x:Key="SahovskeFigurice" TargetType="{x:Type Image}">
+            <Style.Triggers>                
+                <!--beli pesak-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Pesak}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Beli}"/>                        
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}pesakB.png'}"/>
+                    </MultiDataTrigger.Setters>   
+                </MultiDataTrigger>
+                <!--crni pesak-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Pesak}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Crni}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}pesakC.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--beli top-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Top}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Beli}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}topB.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--crni top-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Top}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Crni}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}topC.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--beli skakac-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Skakac}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Beli}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}skakacB.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--crni skakac-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Skakac}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Crni}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}skakacC.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--beli lovac-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Lovac}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Beli}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}lovacB.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--crni lovac-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Lovac}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Crni}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}lovacC.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--bela kraljuca-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Kraljica}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Beli}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}kraljicaB.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--crna kraljuca-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Kraljica}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Crni}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}kraljicaC.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--beli kralj-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Kralj}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Beli}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}kraljB.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+                <!--crni kralj-->
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding TipFigurice}" Value="{x:Static ChessSharp:Figurice.Kralj}"/>
+                        <Condition Binding="{Binding Igrac}" Value="{x:Static ChessSharp:Igrac.Crni}"/>
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.Setters>
+                        <Setter Property="Image.Source" Value="{Binding SetFiguricaPublic.PutanjaPublic, Converter={StaticResource StringToImage}, ConverterParameter='{}{0}kraljC.png'}"/>
+                    </MultiDataTrigger.Setters>
+                </MultiDataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Nova igra" Command="{Binding Path = New}" />
+                <MenuItem Header="_Ucitaj partiju" Command="{Binding Path = Open}" />
+                <MenuItem Name="vratiPotezMeni" Header="Vrati potez" Command="{Binding Path = Undo}" />
+            </MenuItem>
+            <MenuItem Header="_Extra">
+                <MenuItem Header="_Options" Command="{Binding Path = Opcije}" />
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About" Command="{Binding Path = About}" />
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="22"/>
+                <ColumnDefinition Width="178"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <ItemsControl Name="SahowskaTabla" Grid.Row="0" Grid.Column="2" ItemsSource="{Binding Igra.KolekcijaFigurica}" Margin="0,10,0,-10">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas Width="8" Height="8" AllowDrop="True" MouseMove="Image_MouseMove"  Background="{StaticResource Tabla}">
+                            <Canvas.RenderTransform>
+                                <ScaleTransform CenterX="4" CenterY ="4" ScaleX="{Binding Igra.SahovskeFigurice.ZoomPublic}" ScaleY="{Binding Igra.SahovskeFigurice.ZoomPublic}" />
+                            </Canvas.RenderTransform>
+                        </Canvas>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Width="1" Height="1">
+                            <Image Tag="{Binding}" Width="1" Height="1" MouseLeftButtonDown="Image_MouseLeftButtonDown" MouseLeftButtonUp="Image_MouseLeftButtonUp" Style="{StaticResource SahovskeFigurice}">
+                            </Image>
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                <ItemsControl.ItemContainerStyle>
+                    <Style>
+                        <Setter Property="Canvas.Left" Value="{Binding Pozicija.X}" />
+                        <Setter Property="Canvas.Top" Value="{Binding Pozicija.Y}"/>
+                    </Style>
+                </ItemsControl.ItemContainerStyle>
+            </ItemsControl>         
+            <!--Levi dock-->
+            <avalon:DockingManager Grid.Column="0" Grid.ColumnSpan="2">
+                <avalon:LayoutRoot>
+                    <avalon:LayoutPanel Orientation="Horizontal">
+                        <avalon:LayoutAnchorablePaneGroup Orientation="Vertical" DockMinWidth="200">
+                            <avalon:LayoutAnchorablePane >
+                                <avalon:LayoutAnchorable Title="Tajmer" FloatingWidth="100" FloatingHeight="70">
+                                    <TextBlock Name="DisplayBeli" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" Text="{Binding Igra.StopericaPublic.Elapsed1, StringFormat=mm\\:ss}"/>
+                                </avalon:LayoutAnchorable>
+                            </avalon:LayoutAnchorablePane>
+                            <avalon:LayoutAnchorablePane >
+                                <avalon:LayoutAnchorable Title="Lista poteza">
+                                    <ListView Name="ListaPoteza" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding Igra.ListePotezaPublic}" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                                        <ListView.View>
+                                            <GridView>
+                                                <GridViewColumn  Header="Polje" DisplayMemberBinding="{Binding Pozicija}" Width="60"/>
+                                                <GridViewColumn Header="Boja" DisplayMemberBinding="{Binding Igrac}" Width="60"/>
+                                                <GridViewColumn Header="Figura" DisplayMemberBinding="{Binding TipIgraca}" Width="60"/>
+                                            </GridView>
+                                        </ListView.View>
+                                    </ListView>
+                                </avalon:LayoutAnchorable>
+                            </avalon:LayoutAnchorablePane>
+                            <avalon:LayoutAnchorablePane >
+                                <avalon:LayoutAnchorable>
+                                    <!--<ItemsControl Name="BeliKonteiner" Grid.Column="2" ItemsSource="{Binding Igra.KonteinerBeliPublic}" Margin="0,10,0,-10">
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <Grid Width="1" Height="1">
+                                                    <Image Tag="{Binding}" Width="1" Height="1" MouseLeftButtonDown="Image_MouseLeftButtonDown" MouseLeftButtonUp="Image_MouseLeftButtonUp" Style="{StaticResource SahovskeFigurice}"/>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>                                        
+                                    </ItemsControl>-->
+                                    <ItemsControl Grid.Column="2" ItemsSource="{Binding Igra.KonteinerBeliPublic}">
+                                        <ItemsControl.ItemsPanel>
+                                            <ItemsPanelTemplate>
+                                                <Canvas Width="8" Height="8" AllowDrop="True">
+                                                    <Canvas.RenderTransform>
+                                                        <ScaleTransform CenterX="3" CenterY ="2" ScaleX="30" ScaleY="30"/>
+                                                    </Canvas.RenderTransform>
+                                                </Canvas>
+                                            </ItemsPanelTemplate>
+                                        </ItemsControl.ItemsPanel>
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <StackPanel>
+                                                    <Image Tag="{Binding}" Width="1" Height="1" MouseLeftButtonDown="Image_MouseLeftButtonDown" MouseLeftButtonUp="Image_MouseLeftButtonUp" Style="{StaticResource SahovskeFigurice}"/>
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>
+                                        <ItemsControl.ItemContainerStyle>
+                                            <Style>
+                                                <Setter Property="Canvas.Left" Value="{Binding Pozicija.X}" />
+                                                <Setter Property="Canvas.Top" Value="{Binding Pozicija.Y}"/>
+                                            </Style>
+                                        </ItemsControl.ItemContainerStyle>
+                                    </ItemsControl>                                                                      
+                                </avalon:LayoutAnchorable>
+                            </avalon:LayoutAnchorablePane>
+                        </avalon:LayoutAnchorablePaneGroup>
+                    </avalon:LayoutPanel>
+                </avalon:LayoutRoot>
+            </avalon:DockingManager>
+            <!--Desni dock-->
+            <avalon:DockingManager Grid.Column="3">
+                <avalon:LayoutRoot>
+                    <avalon:LayoutPanel Orientation="Horizontal">
+                        <avalon:LayoutAnchorablePaneGroup Orientation="Vertical" DockMinWidth="200">
+                            <avalon:LayoutAnchorablePane >
+                                <avalon:LayoutAnchorable Title="Tajmer" FloatingWidth="100" FloatingHeight="70">
+                                    <TextBlock Name="DisplayCrni" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" Text="{Binding Igra.StopericaPublic.Elapsed2, StringFormat=mm\\:ss}"/>
+                                </avalon:LayoutAnchorable>
+                            </avalon:LayoutAnchorablePane>
+                            <avalon:LayoutAnchorablePane >
+                                <avalon:LayoutAnchorable>
+                                    <!--<ItemsControl Name="CrniKonteiner" Grid.Column="2" ItemsSource="{Binding Igra.KonteinerCrniPublic}" Margin="0,10,0,-10">
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <Grid Width="1" Height="1">
+
+                                                </Grid>
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>
+                                    </ItemsControl>-->
+                                    <ItemsControl Grid.Column="2" ItemsSource="{Binding Igra.KonteinerCrniPublic}" FlowDirection="RightToLeft">
+                                        <ItemsControl.ItemsPanel>
+                                            <ItemsPanelTemplate>
+                                                <Canvas Width="8" Height="8" AllowDrop="True">
+                                                    <Canvas.RenderTransform>
+                                                        <ScaleTransform CenterX="3" CenterY ="4" ScaleX="30" ScaleY="30"/>
+                                                    </Canvas.RenderTransform>
+                                                </Canvas>
+                                            </ItemsPanelTemplate>
+                                        </ItemsControl.ItemsPanel>
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <StackPanel>
+                                                    <Image Tag="{Binding}" Width="1" Height="1" MouseLeftButtonDown="Image_MouseLeftButtonDown" MouseLeftButtonUp="Image_MouseLeftButtonUp" Style="{StaticResource SahovskeFigurice}"/>
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>
+                                        <ItemsControl.ItemContainerStyle>
+                                            <Style>
+                                                <Setter Property="Canvas.Left" Value="{Binding Pozicija.X}" />
+                                                <Setter Property="Canvas.Top" Value="{Binding Pozicija.Y}"/>
+                                            </Style>
+                                        </ItemsControl.ItemContainerStyle>
+                                    </ItemsControl>
+                                </avalon:LayoutAnchorable>
+                            </avalon:LayoutAnchorablePane>
+                        </avalon:LayoutAnchorablePaneGroup>
+                    </avalon:LayoutPanel>
+                </avalon:LayoutRoot>
+            </avalon:DockingManager>
+            <Slider Grid.Column="2" Width="300px" HorizontalAlignment="Left" Margin="144,510,0,0" VerticalAlignment="Top" IsSnapToTickEnabled="True" Value="{Binding Igra.SahovskeFigurice.ZoomPublic}" Minimum="45" Maximum="55" TickPlacement="BottomRight" />
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="200,514,0,0" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Igra.SahovskeFigurice.SetFiguricaPublic.PutanjaPublic, StringFormat= '{}{0}pesakB.png'}" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

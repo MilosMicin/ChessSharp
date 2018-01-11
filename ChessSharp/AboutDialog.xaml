@@ -1,0 +1,38 @@
+﻿<Window x:Class="ChessSharp.AboutDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AboutDialog" Height="300" Width="375" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" FontSize="15" FontWeight="Bold" Text="Miloš Mićin" Margin="10 30 0 0"/>
+                <TextBlock Grid.Row="1" FontSize="15" FontWeight="Bold" Text="Visoka škola ICT" Margin="10 10 0 0"/>
+                <TextBlock Grid.Row="2" FontSize="15" FontWeight="Bold" Text="Internet tehnologije" Margin="10 10 0 0"/>
+                <TextBlock Grid.Row="3" FontSize="15" FontWeight="Bold" Text="BR: 180/13" Margin="10 10 0 0"/>
+            </Grid>
+            <Image Grid.Column="1" Source="Slicice\ict_logo.bmp" Width="130" Margin="0 20 30 0"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <TextBlock FontSize="13" Name="aboutTb" Margin="5 15 5 0" Padding="0 10 0 0" >
+                ChessSharp aplikacija služi isključivo za zabavu i razonodu<LineBreak/> 
+                da se čovek opusti i uživa u izazovu. <LineBreak/>
+                Ova aplikacija sadrži u sebi sve standardne elemente šaha i<LineBreak/>
+                dostojna je igri šaha<LineBreak/>
+            </TextBlock>
+        </Grid>
+    </Grid>
+</Window>

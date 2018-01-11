@@ -1,0 +1,33 @@
+﻿<Window x:Class="ChessSharp.PromocijaPesakaDijalog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PromocijaPesakaDijalog" Height="250" Width="500">
+    <DockPanel>
+        <Grid>
+            <GroupBox Header="Promocija Pesaka" Margin="25">
+                <UniformGrid Rows="1" Columns="4">
+                    <Button Name="BKraljica" Width="80" Height="80" Command="{Binding Kraljica}">
+                        <StackPanel>
+                            <Image Source="Slicice\1\KraljicaB.png" />
+                        </StackPanel>
+                    </Button>
+                    <Button IsDefault="True" Name="BLovac" Width="80" Height="80" Command="{Binding Lovac}">
+                        <StackPanel>
+                            <Image Source="Slicice\1\lovacB.png"/>
+                        </StackPanel>
+                    </Button>
+                    <Button Name="BSkakac" Width="80" Height="80" Command="{Binding Skakac}">
+                        <StackPanel>
+                            <Image Source="Slicice\1\skakacB.png"/>
+                        </StackPanel>
+                    </Button>
+                    <Button Name="BTop" Width="80" Height="80" Command="{Binding Topp}">
+                        <StackPanel>
+                            <Image Source="Slicice\1\TopB.png" />
+                        </StackPanel>
+                    </Button>
+                </UniformGrid>
+            </GroupBox>
+        </Grid>
+    </DockPanel>
+</Window>
